@@ -1,0 +1,40 @@
+h1 {
+  background-color: red;
+  color: white;
+  font-family: sans-serif;
+  padding: 10px;
+}
+
+p {
+  background-color: green;
+  color: white;
+}
+
+li {
+  list-style: space-counter;
+}
+
+.special {
+  background-color: orange;
+  font-weight: bold;
+}
+
+li em {
+  color: rebeccapurple;
+}
+
+h1 + p {
+  font-size: 200%;
+}
+
+a:link {
+  color: pink;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  text-decoration: none;
+}

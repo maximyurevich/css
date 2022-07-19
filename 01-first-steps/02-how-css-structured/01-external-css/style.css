@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: black;
+  background-color: yellow;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+p {
+  background-color: red;
+  color: white;
+  padding: 10px;
+}

@@ -1,0 +1,11 @@
+.container {
+  column-width: 250px;
+  column-gap: 20px;
+}
+
+.card {
+  padding: 10px;
+  margin: 0 0 1em;
+  border: 2px solid rgb(79 185 227);
+  background: rgb(207 232 220);
+}

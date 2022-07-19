@@ -1,0 +1,7 @@
+.box {
+  width: 500px;
+  height: 300px;
+  border: 10px solid rebeccapurple;
+  border-radius: 1em;
+  border-top-right-radius: 10% 30%;
+}

@@ -1,0 +1,13 @@
+.box {
+  width: 500px;
+  border: 5px black solid;
+  padding: 0.5em;
+  border-radius: 10px;
+  background-image: url("https://mdn.github.io/css-examples/learn/backgrounds-borders/balloons.jpg");
+  background-size: cover;
+}
+
+h2 {
+  background-color: rgba(0 0 0 50%);
+  color: white;
+}

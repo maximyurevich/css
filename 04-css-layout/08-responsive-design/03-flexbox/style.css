@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+}
+
+.item {
+  flex: 1;
+}

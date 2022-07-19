@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "lint": "stylelint \"**/*.css\" --fix"
+  },
+  "devDependencies": {
+    "htmlhint": "^1.1.4",
+    "stylelint": "^14.8.2",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-standard": "^25.0.0"
+  },
+  "dependencies": {},
+  "license": "GPL-3.0-or-later"
+}

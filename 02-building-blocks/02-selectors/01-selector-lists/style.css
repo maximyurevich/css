@@ -1,0 +1,8 @@
+span {
+  background-color: yellow;
+}
+
+/* stylelint-disable */
+strong, em {
+  color: rebeccapurple;
+}

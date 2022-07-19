@@ -1,0 +1,12 @@
+body {
+  background-color: #fff;
+  color: #333;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.box {
+  border: 5px solid darkblue;
+  width: 20vw;
+  height: 20vh;
+  font-size: 10vh;
+}

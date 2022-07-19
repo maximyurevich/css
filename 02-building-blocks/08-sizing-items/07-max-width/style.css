@@ -1,0 +1,36 @@
+body {
+  background-color: #fff;
+  color: #333;
+  font: 1.2em / 1.5 Helvetica, Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+
+.wrapper > * {
+  margin: 20px;
+}
+
+.box, .minibox {
+  border: 5px solid darkblue;
+}
+
+.box {
+  width: 200px;
+}
+
+.minibox {
+  width: 50px;
+}
+
+.width {
+  width: 100%;
+}
+
+.max {
+  max-width: 100%;
+}

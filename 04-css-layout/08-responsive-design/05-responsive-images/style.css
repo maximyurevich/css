@@ -1,0 +1,9 @@
+body {
+  font-size: xx-large;
+}
+
+img,
+picture, 
+video {
+  width: 100%;
+}

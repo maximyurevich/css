@@ -1,0 +1,6 @@
+{
+    "css.validate": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.stylelint": true
+    }
+}

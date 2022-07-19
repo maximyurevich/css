@@ -1,0 +1,11 @@
+body {
+  background-color: #fff;
+  color: #333;
+  font: 1.2em / 1.5 Helvetica, Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  font-size: 80%;
+}

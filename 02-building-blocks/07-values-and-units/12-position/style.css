@@ -1,0 +1,7 @@
+.box {
+  height: 300px;
+  width: 400px;
+  background-image: url("https://mdn.github.io/css-examples/learn/values-units/star.png");
+  background-repeat: no-repeat;
+  background-position: right 40px;
+}

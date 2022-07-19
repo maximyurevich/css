@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  column-width: 200px;
+}

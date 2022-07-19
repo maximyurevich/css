@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 19.2px;
+  line-height: 28.8px;
+}
+
+.box {
+  border: 1px solid #ccc;
+  padding: .5em;
+  margin: 10px;
+  width: 150px;
+}
+
+.horizontal {
+  writing-mode: horizontal-tb;
+}
+
+.vertical {
+  writing-mode: vertical-rl;
+}

@@ -1,0 +1,28 @@
+body {
+  background-color: #fff;
+  color: #333;
+  font: 1.2em / 1.5 Helvetica, Arial, sans-serif;
+}
+
+.wrapper {
+  background-image: url("https://mdn.github.io/css-examples/learn/values-units/balloons.jpg");
+  padding: 40px 20px;
+}
+
+.box {
+  padding: 10px;
+  margin: 1em 0;
+  border-radius: 0.5em;
+}
+
+.one {
+  background-color: hsla(188deg 97% 28% / 30%);
+}
+
+.two {
+  background-color: hsla(321deg 47% 57% / 70%);
+}
+
+.three {
+  background-color: hsla(174deg 77% 31% / 90%);
+}

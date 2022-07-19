@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 19.2px;
+  line-height: 28.8px;
+}
+
+.box {
+  inline-size: 200px;
+  writing-mode: horizontal-tb;
+  padding: .5em;
+  border: 1px solid #ccc;
+}
+
+img {
+  float: inline-start;
+  margin-inline-end: 10px;
+  margin-block-end: 10px;
+}

@@ -1,0 +1,12 @@
+/* stylelint-disable */
+p {
+  font-weight: bold;
+  colour: blue;
+  font-size: 200%;
+}
+
+.box {
+  background-color: antiquewhite;
+  width: 500px;
+  width: calc(100% - 50px);
+}

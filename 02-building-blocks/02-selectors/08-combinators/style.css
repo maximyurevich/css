@@ -1,0 +1,11 @@
+article > p {
+  background-color: gainsboro;
+}
+
+h1 + p {
+  background-color: khaki;
+}
+
+p ~ time {
+  background-color: beige;
+}

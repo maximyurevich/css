@@ -1,0 +1,9 @@
+.box {
+  width: 500px;
+  height: 300px;
+  border: 1px solid  #ccc;
+  margin: 20px;
+  background-image: url("https://mdn.github.io/css-examples/learn/backgrounds-borders/balloons.jpg");
+  background-repeat: no-repeat;
+  background-size: 100px 10em;
+}

@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+@media screen and (min-width:80rem) {
+  .container {
+    margin: 1em 2em;
+  }
+}

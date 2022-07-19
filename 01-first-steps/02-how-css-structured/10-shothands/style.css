@@ -1,0 +1,35 @@
+.box {
+  width: 500px;
+  height: 500px;
+  border: 10px solid;
+}
+
+.box_base-box {
+  background-color: aqua;
+  padding: 10px 15px 15px 5px;
+  border-color: tan;
+}
+
+/* Блок с фоновой картинкой */
+
+.box_info-box {
+  background-color: antiquewhite;
+  background-image: url("bg-graphic.jpg");
+  background-position: 10px 10px;
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+  padding-top: 10px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 5px;
+  border-color: palegreen;
+}
+
+.box_danger-box {
+  background: coral url("bg-graphic2.jpg") 10px 10px repeat-x fixed;
+  border-color: red;
+  padding-block-start: 10px;
+  padding-inline-end: 15px;
+  padding-block-end: 15px;
+  padding-inline-start: 5px;
+}

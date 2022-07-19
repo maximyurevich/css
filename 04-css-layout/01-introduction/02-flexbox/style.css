@@ -1,0 +1,9 @@
+.wrapper {
+  display: flex;
+}
+
+.wrapper > div {
+  background-color: rgb(207 232 220);
+  padding: 1em;
+  flex: 1;
+}
