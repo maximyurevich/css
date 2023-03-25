@@ -1,0 +1,5 @@
+@media not all and (orientation: landscape) {
+  body {
+    color: blue;
+  }
+}
